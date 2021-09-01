@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="appl">
+    <output-path>$PROJECT_DIR$/out/artifacts/appl</output-path>
+    <root id="archive" name="appl.jar">
+      <element id="module-output" name="pubsub" />
+    </root>
+  </artifact>
+</component>
