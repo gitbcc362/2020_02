@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PubSubBackup:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PubSubBackup_jar</output-path>
+    <root id="archive" name="PubSubBackup.jar">
+      <element id="module-output" name="PubSubBackup" />
+    </root>
+  </artifact>
+</component>
