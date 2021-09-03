@@ -1,0 +1,19 @@
+{
+  "name": "twitter-stream-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Camillo",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.27.7",
+    "needle": "^2.6.0",
+    "redis": "^3.1.2",
+    "twitter": "^1.7.1",
+    "twitter-v2": "^1.1.0"
+  }
+}
